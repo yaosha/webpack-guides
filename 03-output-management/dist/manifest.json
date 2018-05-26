@@ -1,0 +1,5 @@
+{
+  "print.js": "print.bundle.js",
+  "app.js": "app.bundle.js",
+  "index.html": "index.html"
+}
