@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HTMLWebpackPlugin({
-      title: 'Caching'
+      title: 'author libraries'
     }),
     new webpack.HashedModuleIdsPlugin(),
   ],
